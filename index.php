@@ -55,7 +55,7 @@ class="icon-chevron-up" style=""></i>
                                 cbAnimStop: function(data) {},
                                 cbPrev: function(data) {},
                                 cbNext: function(data) {},
-                                skinsPath: 'http://www.tandemskiskok.si/wp-content/plugins/LayerSlider/static/skins/'
+                                skinsPath: 'https://www.tandemskiskok.si/wp-content/plugins/LayerSlider/static/skins/'
                             })
                         }
                     });
@@ -91,7 +91,7 @@ class="icon-chevron-up" style=""></i>
                                                             </div>
                                                             <div class="separator  transparent" style=""></div>
                                                             <blockquote style=''><i class='icon-quote-right pull-left' style=''></i>
-                                                                <h5 style=''>Tandemski skok, skok s padalom je najenostavnejši in najvarnejši način, da doživite nekaj, o čemer ste do sedaj lahko le sanjali.</h5></blockquote>
+                                                                <h5 style=''>Tandemski skok, <a href="https://www.prostipad.si/skok-s-padalom ">skok s padalom</a> je najenostavnejši in najvarnejši način, da doživite nekaj, o čemer ste do sedaj lahko le sanjali.</h5></blockquote>
                                                             <div class="separator  transparent" style=""></div>
                                                         </div>
                                                     </div>
@@ -430,7 +430,7 @@ class="author_desc" style=""></span></span>
                                                                 <div class="vc_column-inner">
                                                                     <div class="wpb_wrapper">
                                                                         <div class="fb_like wpb_content_element fb_type_button_count">
-                                                                            <iframe src="//www.facebook.com/plugins/like.php?href=http://www.tandemskiskok.si/&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+                                                                            <iframe src="//www.facebook.com/plugins/like.php?href=https://www.tandemskiskok.si/&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
                                                                         </div>
                                                                     </div>
                                                                 </div>

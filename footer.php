@@ -9,7 +9,7 @@
                                 <div id="text-3" class="widget widget_text">
                                     <div class="textwidget"><img src="/wp-content/uploads/2014/01/logo_tandemskiskok_white.png">
                                         <br>
-                                        <span class='social_icon_holder'><a href='https://www.facebook.com/tandemskiskok' target='_new'>
+                                        <span class='social_icon_holder'><a href='https://www.facebook.com/prostipadsi' target='_new'>
                                         <span class='icon-stack icon-2x' style='background-color: #464646;'><i class='icon-facebook' style='color: #a9a9a9;'></i></span></a>
                                         </span>
                                     </div>

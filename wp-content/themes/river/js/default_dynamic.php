@@ -102,7 +102,7 @@ function codeAddress(data) {
 			var marker = new google.maps.Marker({
 				map: map, 
 				position: results[0].geometry.location,
-								icon:  'http://www.tandemskiskok.si/wp-content/uploads/2014/01/pin.png',
+								icon:  'https://www.tandemskiskok.si/wp-content/uploads/2014/01/pin.png',
 								title: data['store_title']
 			});
 			google.maps.event.addListener(marker, 'click', function() {
@@ -135,8 +135,8 @@ function showContactMap() {
 }
 
 var no_ajax_pages = [];
-var root = 'http://www.tandemskiskok.si/';
-var theme_root = 'http://www.tandemskiskok.si/wp-content/themes/river/';
+var root = 'https://www.tandemskiskok.si/';
+var theme_root = 'https://www.tandemskiskok.si/wp-content/themes/river/';
 var parallax_speed = 1;
 
 
