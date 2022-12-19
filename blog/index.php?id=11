@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>skok s padalom, tandemski skok, padalska šola | izberite najboljše</title>
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel="pingback" href="/xmlrpc.php" />
+    <link rel="shortcut icon" type="image/x-icon" href="/wp-content/uploads/2013/12/favicon.ico">
+    <!--[if gte IE 9]><style type="text/css">.gradient{filter:none}</style><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700|Open+Sans:300italic,400:italic,400&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <meta name="description" content="Tandemski skok, skok s padalom je najenostavnejši in najvarnejši način, da doživite nekaj, o čemer ste do sedaj lahko le sanjali." />
+    <link rel="canonical" href="/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Skok s padalom - skok s padalom, tandemski skok, padalska šola" />
+    <meta property="og:description" content="Tandemski skok, skok s padalom je najenostavnejši in najvarnejši način, da doživite nekaj, o čemer ste do sedaj lahko le sanjali." />
+    <meta property="og:url" content="https://www.tandemskiskok.si/" />
+    <meta property="og:site_name" content="skok s padalom, tandemski skok, padalska šola" />
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.tandemskiskok.si\/","name":"skok s padalom, tandemski skok, padalska \u0161ola","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.tandemskiskok.si\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+    <link rel='dns-prefetch' href='//maps.googleapis.com' />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="alternate" type="application/rss+xml" title="skok s padalom, tandemski skok, padalska šola &raquo; Feed" href="/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="skok s padalom, tandemski skok, padalska šola &raquo; Comments Feed" href="/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="skok s padalom, tandemski skok, padalska šola &raquo; Skok s padalom Comments Feed" href="/skok-s-padalom/feed/" />
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "http:\/\/www.tandemskiskok.si\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"
+            }
+        };
+        ! function(a, b, c) {
+            function d(a) {
+                var b, c, d, e, f = String.fromCharCode;
+                if (!k || !k.fillText) return !1;
+                switch (k.clearRect(0, 0, j.width, j.height), k.textBaseline = "top", k.font = "600 32px Arial", a) {
+                    case "flag":
+                        return k.fillText(f(55356, 56826, 55356, 56819), 0, 0), b = j.toDataURL(), k.clearRect(0, 0, j.width, j.height), k.fillText(f(55356, 56826, 8203, 55356, 56819), 0, 0), c = j.toDataURL(), b === c && (k.clearRect(0, 0, j.width, j.height), k.fillText(f(55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447), 0, 0), b = j.toDataURL(), k.clearRect(0, 0, j.width, j.height), k.fillText(f(55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447), 0, 0), c = j.toDataURL(), b !== c);
+                    case "emoji4":
+                        return k.fillText(f(55358, 56794, 8205, 9794, 65039), 0, 0), d = j.toDataURL(), k.clearRect(0, 0, j.width, j.height), k.fillText(f(55358, 56794, 8203, 9794, 65039), 0, 0), e = j.toDataURL(), d !== e
+                }
+                return !1
+            }
+
+            function e(a) {
+                var c = b.createElement("script");
+                c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c)
+            }
+            var f, g, h, i, j = b.createElement("canvas"),
+                k = j.getContext && j.getContext("2d");
+            for (i = Array("flag", "emoji4"), c.supports = {
+                    everything: !0,
+                    everythingExceptFlag: !0
+                }, h = 0; h < i.length; h++) c.supports[i[h]] = d(i[h]), c.supports.everything = c.supports.everything && c.supports[i[h]], "flag" !== i[h] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[i[h]]);
+            c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function() {
+                c.DOMReady = !0
+            }, c.supports.everything || (g = function() {
+                c.readyCallback()
+            }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", g, !1), a.addEventListener("load", g, !1)) : (a.attachEvent("onload", g), b.attachEvent("onreadystatechange", function() {
+                "complete" === b.readyState && c.readyCallback()
+            })), f = c.source || {}, f.concatemoji ? e(f.concatemoji) : f.wpemoji && f.twemoji && (e(f.twemoji), e(f.wpemoji)))
+        }(window, document, window._wpemojiSettings); /*]]>*/
+    </script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important
+        }
+    </style>
+    <link rel='stylesheet' id='layerslider-css' href='/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.9' type='text/css' media='all' />
+    <link rel='stylesheet' id='ls-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='cookielawinfo-style-css' href='/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='default_style-css' href='/wp-content/themes/river/style.css?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='qode-font-awesome-css' href='/wp-content/themes/river/css/font-awesome/css/font-awesome.min.css?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='stylesheet-css' href='/wp-content/themes/river/css/stylesheet.min.css?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+    <link rel='stylesheet' id='style_dynamic-css' href='/wp-content/themes/river/css/style_dynamic.php?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='responsive-css' href='/wp-content/themes/river/css/responsive.min.css?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='style_dynamic_responsive-css' href='/wp-content/themes/river/css/style_dynamic_responsive.php?ver=4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='custom_css-css' href='/wp-content/themes/river/css/custom_css.php?ver=4.8' type='text/css' media='all' />
+    <script type='text/javascript' src='/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <script type='text/javascript'>
+        var LS_Meta = {
+            "v": "5.6.9"
+        };
+    </script>
+    <script type='text/javascript' src='/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.9'></script>
+    <script type='text/javascript' src='/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.9'></script>
+    <script type='text/javascript' src='/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3'></script>
+    <meta name="generator" content="Powered by LayerSlider 5.6.9 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+    <link rel='https://api.w.org/' href='/wp-json/' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
+    <link rel='shortlink' href='/' />
+    <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F&#038;format=xml" />
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress." />
+    <!--[if lte IE 9]><link
+rel="stylesheet" type="text/css" href="https://www.tandemskiskok.si/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+    <!--[if IE  8]><link
+rel="stylesheet" type="text/css" href="https://www.tandemskiskok.si/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+    <noscript>
+        <style type="text/css">
+            .wpb_animate_when_almost_visible {
+                opacity: 1
+            }
+        </style>
+    </noscript>
+</head>
+
+<body class="home page-template-default page page-id-8 ajax_fade page_not_loaded smooth_scroll  wpb-js-composer js-comp-ver-4.12 vc_responsive">
+    <div class="ajax_loader">
+        <div class="ajax_loader_1">
+            <div class="ajax_loader_html"></div>
+        </div>
+    </div>
+    <section class="side_menu right">
+        <div class="side_menu_title"></div>
+        <div id="search-3" class="widget widget_search">
+            <form role="search" method="get" id="searchform" class="searchform" action="/">
+                <div>
+                    <label class="screen-reader-text" for="s">Search for:</label>
+                    <input type="text" value="" name="s" id="s" />
+                    <input type="submit" id="searchsubmit" value="Search" />
+                </div>
+            </form>
+        </div>
+        <div id="pages-3" class="widget widget_pages">
+            <h6>Pages</h6>
+            <ul>
+                <li class="page_item page-item-153 page_item_has_children"><a href="/blog/">Blog</a>
+                    <ul class='children'>
+                        <li class="page_item page-item-241 page_item_has_children"><a href="/blog/galerija/">Galerija</a>
+                            <ul class='children'>
+                                <li class="page_item page-item-374"><a href="/blog/galerija/10-letna-anja/">10 letna Anja</a></li>
+                                <li class="page_item page-item-370"><a href="/blog/galerija/nas-instruktor-kot-tandemski-potnik/">Naš inštruktor, kot tandemski potnik</a></li>
+                                <li class="page_item page-item-364"><a href="/blog/galerija/virginia-lesce/">Virginia Lesce</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="page_item page-item-10"><a href="/darilni-bon-za-tandemski-skok-s-padalom/">Darilni boni, nakup</a></li>
+                <li class="page_item page-item-40"><a href="/kontakt-in-nakup/">Kontakt</a></li>
+                <li class="page_item page-item-230"><a href="/cookie-policy/">Piškotki</a></li>
+                <li class="page_item page-item-8 current_page_item"><a href="/">Skok s padalom</a></li>
+                <li class="page_item page-item-176"><a href="/storitve/">Storitve</a></li>
+                <li class="page_item page-item-186"><a href="/padalska-sola/">Vetrovnik / padalska šola</a></li>
+            </ul>
+        </div>
+    </section>
+    <div class="wrapper">
+        <div class="wrapper_inner">
+            <script>
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-1885575-9']);
+                _gaq.push(['_trackPageview']);
+                (function() {
+                    var ga = document.createElement('script');
+                    ga.type = 'text/javascript';
+                    ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+                })();
+            </script>
+            <header class="has_top">
+                <div class="header_inner clearfix">
+                    <div class="header_top clearfix">
+                        <div class="container">
+                            <div class="container_inner clearfix">
+                                <div class="left">
+                                    <div class="inner">
+                                        <div>
+                                            <div class="textwidget"><span class='social_icon_holder'><a
+href='https://www.facebook.com/prostipadsi' target='_self'><span
+class='icon-stack icon-large' style='background-color: transparent;'><i
+class='icon-facebook' style='color: #8f8f8f;'></i></span></a>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="inner">
+                                        <div>
+                                            <div class="textwidget">
+                                                <div class="textwidget">telefon: 040 558 566</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header_bottom clearfix">
+                        <div class="container">
+                            <div class="container_inner clearfix">
+                                <div class="header_inner_left">
+                                    <div class="mobile_menu_button"><span><i
+class="icon-reorder"></i></span></div>
+                                    <div class="logo_wrapper">
+                                        <div class="logo">
+                                            <a href="/">
+                                                <img src="/wp-content/uploads/2013/12/logo_tandemskiskok_s.png" alt="Logo" />
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="header_inner_right">
+                                    <div class="side_menu_button_wrapper right">
+                                        <div class="side_menu_button"><a href="javascript:void(0)"><i
+class="icon-reorder"></i></a></div>
+                                    </div>
+                                </div>
+                                <nav class="main_menu drop_down right">
+                                    <ul id="menu-home" class="">
+                                        <li id="nav-menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home  narrow"><a href="/" class="current"><i
+class="menu_icon blank"></i><span>Domov</span></a></li>
+                                        <li id="nav-menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="/darilni-bon-za-tandemski-skok-s-padalom/" class=""><i
+class="menu_icon blank"></i><span>Darilni boni, nakup</span></a></li>
+                                        <li id="nav-menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub narrow"><a href="/blog/" class=""><i
+class="menu_icon blank"></i><span>Blog</span></a>
+                                            <div class="second">
+                                                <div class="inner">
+                                                    <ul>
+                                                        <li id="nav-menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub"><a href="/blog/galerija/" class=""><i
+class="menu_icon blank"></i><span>Galerija</span></a>
+                                                            <ul>
+                                                                <li id="nav-menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/10-letna-anja/" class=""><i
+class="menu_icon blank"></i><span>10 letna Anja</span></a></li>
+                                                                <li id="nav-menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/nas-instruktor-kot-tandemski-potnik/" class=""><i
+class="menu_icon blank"></i><span>Naš inštruktor, kot tandemski potnik</span></a></li>
+                                                                <li id="nav-menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/virginia-lesce/" class=""><i
+class="menu_icon blank"></i><span>Virginia Lesce</span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li id="nav-menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub narrow"><a href="/padalska-sola/" class=""><i
+class="menu_icon blank"></i><span>Vetrovnik / padalska šola</span></a>
+                                            <div class="second">
+                                                <div class="inner">
+                                                    <ul>
+                                                        <li id="nav-menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/padalska-sola/program-solanja/" class=""><i
+class="menu_icon blank"></i><span>Padalsko šolanje AFF</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li id="nav-menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="/storitve/" class=""><i
+class="menu_icon blank"></i><span>Storitve</span></a></li>
+                                        <li id="nav-menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="/kontakt-in-nakup/" class=""><i
+class="menu_icon blank"></i><span>Kontakt</span></a></li>
+                                    </ul>
+                                </nav>
+                                <nav class="mobile_menu">
+                                    <ul id="menu-home-1" class="">
+                                        <li id="mobile-menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="/" class="current"><span>Domov</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                        <li id="mobile-menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/darilni-bon-za-tandemski-skok-s-padalom/" class=""><span>Darilni boni, nakup</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                        <li id="mobile-menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="/blog/" class=""><span>Blog</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a>
+                                            <ul class="sub_menu">
+                                                <li id="mobile-menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="/blog/galerija/" class=""><span>Galerija</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a>
+                                                    <ul class="sub_menu">
+                                                        <li id="mobile-menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/10-letna-anja/" class=""><span>10 letna Anja</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                                        <li id="mobile-menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/nas-instruktor-kot-tandemski-potnik/" class=""><span>Naš inštruktor, kot tandemski potnik</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                                        <li id="mobile-menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/blog/galerija/virginia-lesce/" class=""><span>Virginia Lesce</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li id="mobile-menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="/padalska-sola/" class=""><span>Vetrovnik / padalska šola</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a>
+                                            <ul class="sub_menu">
+                                                <li id="mobile-menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/padalska-sola/program-solanja/" class=""><span>Padalsko šolanje AFF</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                            </ul>
+                                        </li>
+                                        <li id="mobile-menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/storitve/" class=""><span>Storitve</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                        <li id="mobile-menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/kontakt-in-nakup/" class=""><span>Kontakt</span><span
+class="mobile_arrow"><i
+class="icon-angle-right"></i><i
+class="icon-angle-down"></i></span></a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>    <div class="content">
+        <div class="meta">
+            <div class="seo_title">skok s padalom, tandemski skok, padalska šola | blog - tandemski skok s padalom, padalska šola, vprašanja in odgovori</div>
+            <div class="seo_description">Tandemski padalski skok iz letala. Letališča Lesce, Slovenj Gradec, Portorož.</div>
+            <div class="seo_keywords">skok s padalom, tandemski skok, padalska šola, prosti pad</div>
+            <span id="qode_page_id">153</span>
+            <div class="body_classes">page-template,page-template-blog-masonry,page-template-blog-masonry-php,page,page-id-153,page-parent,ajax_fade,page_not_loaded,smooth_scroll,,wpb-js-composer js-comp-ver-4.12,vc_responsive</div>
+        </div>
+        <div class="content_inner">
+            <div class="title with_breadcrumbs" style="">
+                <div class="title_holder">
+                    <div class="container">
+                        <div class="container_inner clearfix">
+                            <div class="breadcrumb">
+                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&#47;</span> <a href="/">Blog</a></div>
+                            </div> <span class="subtitle"> vprašanja in zanimive informacije</span></div>
+                    </div>
+                </div>
+            </div>
+            <a id='back_to_top' href='#'>
+                <span class="icon-stack">
+<i class="icon-chevron-up" style=""></i>
+</span>
+            </a>
+            <div class="container">
+                <div class="container_inner clearfix">
+                <div><script type="text/javascript"> /* Dealing with cookies */ function cn_get_cookie_val(offset) { var endstr = document.cookie.indexOf (";", offset); if (endstr == -1) endstr = document.cookie.length; return decodeURIComponent(document.cookie.substring(offset, endstr)); } function cn_get_cookie(name) { var arg = name + "="; var alen = arg.length; var clen = document.cookie.length; var i = 0; while (i < clen) { var j = i + alen; if (document.cookie.substring(i, j) == arg) return cn_get_cookie_val (j); i = document.cookie.indexOf(" ", i) + 1; if (i == 0) break; } return null; } function cn_set_cookie(name, value) { var argv = cn_set_cookie.arguments; var argc = cn_set_cookie.arguments.length; var expires = (argc > 2) ? argv[2] : null; var domain = (argc > 3) ? argv[3] : null; var secure = (argc > 4) ? argv[4] : false; var path = '/'; if (value.length > 0) { document.cookie = name + "=" + (value ? encodeURIComponent (value) : '') + ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ((path == null) ? "" : ("; path=" + path)) + ((domain == null) ? "" : ("; domain=" + domain)) + ((secure == true) ? "; secure" : ""); } else { document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/'; } } /* -------------- Get ID in misc browser ------------------ */ function cn_get_id(id) { if (document.all) return (document.all[id]); else if (document.getElementById) return (document.getElementById(id)); else if (document.layers) return (document.layers[id]); else return null; } function forget_me() { var t = document.getElementsByTagName('input'); for (var i = 0; i < t.length; i++) { if (t[i].className == 'cn_comm_username' || t[i].className == 'cn_comm_email') { t[i].value = ''; t[i].disabled = ''; } if (t[i].name == 'isforgetme') { t[i].value = 'true'; } if (t[i].name == '__signature_key' || t[i].name == '__signature_dsi') { t[i].value = ''; } } cn_set_cookie('session', ''); cn_set_cookie('CUTENEWS_SESSION', ''); var c = document.getElementsByTagName('form')[0]; /* c.submit(); */ document.location.reload(); } function cn_more_expand(id) { var dis = cn_get_id(id); if (dis.style.display == 'none') dis.style.display = 'block'; else dis.style.display = 'none'; } function insertext(text, id) { cn_get_id(id).value +=" "+ text; cn_get_id(id).focus(); } </script>
+<noscript>Your browser is not Javascript enable or you have turn it off. We recommend you to activate for better security reason</noscript><div style="width: 100%; margin-bottom:15px;">
+    <div><strong>3 FAZE TANDEMSKEGA SKOKA S PADALOM&hellip; PROSTI PAD, VO&#381;NJA S PADALOM, PRISTANEK.</strong></div>
+    <div style="text-align:justify; padding:3px; margin-top:3px; margin-bottom:5px; border-top:1px solid #D3D3D3;">Dobrodo&scaron;li v svetu padalstva. &#268;e sklepam po temu, da ravnokar berete tale &#269;lanek, pridem do zaklju&#269;ka, da se pripravljate na svoj prvi tandemski skok s padalom. Potrudil se bom po najbolj&scaron;ih mo&#269;eh opisati ob&#269;utke, ki nas prevevajo ob skoku s padalom, ter odgovoriti na &#269;im ve&#269; pogostih vpra&scaron;anj, ki jih dobivamo od na&scaron;ih zvestih strank. Najpogostej&scaron;a vpra&scaron;anja so: Kak&scaron;en je ob&#269;utek v prostem padu?; Kak&scaron;en je ob&#269;utek ko se odpre padalo?; Kako upravljam padalo? Predlagam da pograbite lon&#269;ek kave in si me pridru&#382;ite na besednem popotovanju skozi skok s padalom v tandemu.<br />
+Kako se ljudje po&#269;utijo pri skoku s padalom?<br />
+&#268;e to vpra&scaron;anje postavite mnogim, boste dobili mnoge razli&#269;ne odgovore. A kljub temu obstaja en odgovor, ki se pojavi najpogosteje in sicer &raquo;To mora&scaron; probat!&laquo;. In s tem se popolnoma strinjam. Skok s padalom je namre&#269; tako posebna izku&scaron;nja, da jo je nemogo&#269;e primerjati s &#269;imerkoli na tem svetu. A kljub temu, naj poskusim opisati na na&#269;in ki bo razumljiv:<br />
+Predstavljaj si, da pride&scaron; nekam kjer te pi&scaron; sve&#382;ega zraku ne&#382;no bo&#382;a po obrazu, okrog tebe pa so &#269;isto vsi nasmejani, pisano oble&#269;eni, z iskrico v o&#269;eh in govorijo z o&#269;itnim navdu&scaron;enjem v glasu. Zaveda&scaron; se da si nov, a kljub vsemu se od za&#269;etka po&#269;uti&scaron; doma&#269;e. Kmalu zatem &#382;e dobi&scaron; vsa potrebna navodila ter opremo, in &#382;e sedi&scaron; na letalu s svojim in&scaron;truktorjem. Zapusti&scaron; meje 2 dimenzionalnega sveta in &#382;e leti&scaron;. Bren&#269;anje motorja v letalu te pomirja, in kar naenkrat se izgubi&scaron; znotraj svojih misli, medtem ko zre&scaron; skozi okno. Kar naenkrat si &#382;e pripet na svojega in&scaron;truktorja. Srce za&#269;ne pospe&scaron;eno utripati, dlani se malce spotijo in &#382;e se bori&scaron; s svojimi &#382;iv&#269;ki &raquo;to je noro, ne, to bo vrhunsko!...&laquo; &#381;e si na poti proti odprtim vratom. Vsak del zavesti ti pravi da je v letalu varno in da bi moral mogo&#269;e z njim tudi pristati. A upre&scaron; se tem mislim, zleze&scaron; na vrata in preden se sploh zave&scaron; &#382;e le&#382;i&scaron; na sve&#382;em vetru ki te v celoti objema in podpira. Za trenutek za&#269;uti&scaron; nekaj strahu, a v naslednjem trenutku ko odpre&scaron; o&#269;i in ugotovi&scaron; da leti&scaron; strah popolnoma izgine, adrenalin pojenja in kar naenkrat ne obstaja ni&#269; drugega kot le ta trenutek. Pravzaprav niti ne ob&#269;uti&scaron; da pada&scaron;. Pod seboj vidi&scaron; miniaturo pokrajine in po&#269;uti&scaron; se popolnoma svobodno.<br />
+No, nekako tako se &#269;lovek po&#269;uti ob skoku s padalom v tandemu &#128522;<br />
+<br />
+Prehod iz prostega pada na vo&#382;njo s padalom:<br />
+Po le nekaj manj kot 3000m prostega pada in ob&#269;utka popolne bla&#382;enosti se za&#269;ne naslednja faza skoka s padalom &ndash; &#268;as je, da se padalo odpre.<br />
+Tekom prostega pada, je nad vama z in&scaron;truktorjem lebdelo malo belo padalce, ki je nekoliko upo&#269;asnilo vajino hitrost padanja, sedaj pa po in&scaron;truktorjevem potegu ro&#269;ke za odpiranje glavnega padala pomaga iz nahrbtnika potegniti glavno padalo, s katerim se bosta z in&scaron;truktorjem varno odpeljala nazaj na tla.<br />
+Po potegu ro&#269;ke za odpiranje padala, bo &#269;utiti rahel sunek, in kar naenkrat ne pada&scaron; ve&#269; s trebuhom proti zemlji, ampak se znajde&scaron; v pokon&#269;nem polo&#382;aju, &scaron;umenje vetra pa za&#269;ne po&#269;asi pojenjati. Ko je padalo do konca razprto nastopi ti&scaron;ina, &scaron;e vedno pa &#269;uti&scaron; sve&#382; zrak kako ti obliva obraz, medtem ko pod vodstvom in&scaron;truktorja s padalom letita proti pristajali&scaron;&#269;u. <br />
+Ponovno te za trenutek oblije naval adrenalina, kmalu zatem ti in&scaron;truktor preda krmilne vrvice padala, in &#382;e po svoji volji leti&scaron; proti pristanku.<br />
+<br />
+Upravljanje padala in pristanek:<br />
+Pravijo, da mora&scaron; biti nekoliko neumen, da ska&#269;e&scaron; iz odli&#269;no delujo&#269;ih letal. Prav zato, je vsa padalska oprema narejena prav po tak&scaron;nem principu &ndash; kar se le da preprosto. &#268;e poenostavim &ndash; Ko potegne&scaron; levo ro&#269;ko, skrajni levi rob padala pove&#269;a upor in se zato obrne v levo. Ko potegne&scaron; desno ro&#269;ko, se isto zgodi na desni strani in padalo zavije desno. In to je nekako vse kar moramo vedeti.<br />
+Skupaj z in&scaron;truktorjem nato usmerjata padalo v zavoje &ndash; lahko so &#269;isto blagi ali pa zelo agresivni in ostri, &#269;isto odvisno od tvojih &#382;elja. Pribli&#382;no 300m nad tlemi nato in&scaron;truktor ponovno prevzame nadzor in pri&#269;ne svoj pristajalni manever. Po zadnjem zavoju tik nad tlemi in&scaron;truktor potegne obe krmilni vrvici, kar povzro&#269;i da se padalo skoraj popolnoma ustavi, vidva z in&scaron;truktor pa se z nogami pred sabo enostavno podrsata po zadnjici kakor po toboganu.<br />
+&Scaron;ele sedaj ko je tvoja ritka varno nazaj na trdnih tleh te ponovno prevzame koktejl ob&#269;utkov, in zave&scaron; se kako nepredstavljivo nepozabna izku&scaron;nja je to bila. Po&#269;uti&scaron; se noro, samozavestno, olaj&scaron;ano in veli&#269;astno obenem. Sedaj ve&scaron;, kako se &#269;lovek po&#269;uti med skokom s padalom, in tega ne bo&scaron; pozabil ve&#269; nikdar.<br />
+<br />
+Si pripravljen/a sko&#269;iti v neznano in na lastni ko&#382;i ob&#269;utiti kako se &#269;lovek po&#269;uti med skokom s padalom v tandemu? Vabljen/a da se nam pridru&#382;i&scaron; in z nami deli&scaron; svoje ob&#269;utke &#128521;<br />
+</div>
+    <div style="float: right;">Count of comments: 0</div>
+    <div><em>Posted on 24 Aug 2020 by <a href="mailto:erik@prostipad.si">erik</a></em></div>
+    <div></div> 
+    <div>
+        <span class="soc-buttons-left"></span> <span class="soc-buttons-left"></span> <span class="soc-buttons-left"></span>
+    </div>
+</div>
+<br style="clear:both;"/><form class="form-signin" role="form" name="comment_frm" action="/blog/index.php" method="POST"/><input type="hidden" name="id" value="1598268408" /><input type="hidden" name="subaction" value="addcomment" /><input type="hidden" name="popup" value="" /><input type="hidden" name="referer" value="/blog/index.php?id=11" /><table border="0" width="370" cellspacing="0" cellpadding="0">
+   <tr><td width="60">Name:</td><td><input type="text" class="form-control cn_comm_username" placeholder="Name:" name="name" value=""/> <input class="cn_comm_remember" type="checkbox" name="cn_remember_me" value="Y" /> Remember me </td></tr>
+   <tr><td>E-mail:</td><td><input type="text" name="mail" class="form-control cn_comm_email" placeholder="email:" value=""/> (optional)</td></tr>
+   <tr><td>Smile:</td><td><a href='#' onclick='insertext(":smile:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="smile" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/smile.gif" /></a>&nbsp;<a href='#' onclick='insertext(":wink:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="wink" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/wink.gif" /></a>&nbsp;<a href='#' onclick='insertext(":wassat:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="wassat" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/wassat.gif" /></a>&nbsp;<a href='#' onclick='insertext(":tongue:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="tongue" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/tongue.gif" /></a>&nbsp;<a href='#' onclick='insertext(":laughing:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="laughing" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/laughing.gif" /></a>&nbsp;<a href='#' onclick='insertext(":sad:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="sad" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/sad.gif" /></a>&nbsp;<a href='#' onclick='insertext(":angry:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="angry" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/angry.gif" /></a>&nbsp;<a href='#' onclick='insertext(":crying:", "ncomm_1598268408"); return false;'><img style="border: none;" alt="crying" src="http://www.tandemskiskok.si/CuteNews/skins/emoticons/crying.gif" /></a>&nbsp;</td></tr>
+   <tr><td colspan="2"><textarea cols="40" rows="6" name="comments" class="form-control cn_comm_textarea" placeholder="Write your comment here" id="ncomm_1598268408"></textarea></td></tr>
+   <tr><td>Captcha</td><td><div class="cn_comm_captcha"><a href="#" onclick="cn_get_id('cn_comm_captcha_1598268408').src = 'http://www.tandemskiskok.si/CuteNews/captcha.php?r=' + Math.random(); return false;"><img src="http://www.tandemskiskok.si/CuteNews/captcha.php" alt="CAPTCHA, click to refresh" id="cn_comm_captcha_1598268408"/></a></div><div class="cn_comm_cinput"><input type="text" name="cm_captcha" value=""/></div></td></tr>    
+   <tr><td colspan="2" align="right"><input type="submit" value="Add comment" class="btn btn-danger"/></td></tr>
+</table>
+</form><div style="margin-top:15px!important;width:100%!important;text-align:center!important;font:9px Verdana!important;display:block!important;text-indent: 0px!important;visibility: visible!important;color:#000000!important;">Powered by <a href="http://cutephp.com/" title="CuteNews - PHP News Management System" style="font:9px Verdana!important;display:inline!important;visibility:visible!important;color:#003366!important;text-indent: 0px!important;">CuteNews</a></div><!-- News Powered by CuteNews: http://cutephp.com/ --></div>
+                    <div class="blog_holder masonry">
+                    
+                        <article id="post-539" class="post-539 post type-post status-publish format-standard hentry category-uncategorized">
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">06</span> <span class="month">August</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a href="/sodelovali-smo-v-slovenskem-drzavnem-rekordu-v-velikih-formacijah/" title="Sodelovali smo v slovenskem državnem rekordu v velikih formacijah">Sodelovali smo v slovenskem državnem rekordu v velikih formacijah</a></h4> 3.8.2015 je v Bovcu 35 padalcev postavilo nov državni rekord v velikih formacijah. Po skoku iz štirih letal so se ujeli v zraku in sestavili v naprej določeno formacijo. Med novimi nosilci državnega rekorda so tudi naši tandem piloti. <span class="post_social">
+<span class="blog_like">
+<a href="#" class="qode-like" id="qode-like-539" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">0</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-512" class="post-512 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-snemanje-skoka">
+                            <div class="post_image">
+                                <a href="/ce-ni-na-posnetku-se-ni-zgodilo/" title="Če ni na posnetku, se ni zgodilo">
+                                    <img width="1580" height="840" src="/wp-content/uploads/2014/03/gopro.jpg" class="attachment-full size-full wp-post-image" alt="gopro hero 3+ black" srcset="/wp-content/uploads/2014/03/gopro.jpg 1580w, /wp-content/uploads/2014/03/gopro-300x159.jpg 300w, /wp-content/uploads/2014/03/gopro-1024x544.jpg 1024w" sizes="(max-width: 1580px) 100vw, 1580px" /> </a>
+                            </div>
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">06</span> <span class="month">March</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/ce-ni-na-posnetku-se-ni-zgodilo/" title="Če ni na posnetku, se ni zgodilo">Če ni na posnetku, se ni zgodilo</a></h4> Padalci radi rečemo: "če ni na posnetku, se ni zgodilo". Na področju snemanja tandemskih skokov s padalom v tehniki handycam, smo v Sloveniji pravi pionirji, saj smo prvi to tehnologijo prinesli na slovenski trg že leta 2008. V tistem času so se uporabljale Sonyeve kamere z... <span class="post_social">
+<span
+class="blog_like">
+<a href="#" class="qode-like" id="qode-like-512" title="Like this"><i class="icon-heart icon-large"></i><span class="qode-like-count">5</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-504" class="post-504 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-letalisce-bovec">
+                            <div class="post_image">
+                                <a href="/tandemski-skok-s-padalom-letalisce-bovec/" title="Tandemski skok s padalom letališče Bovec">
+                                    <img width="2592" height="1944" src="/wp-content/uploads/2014/01/GOPR6578.jpg" class="attachment-full size-full wp-post-image" alt="Skok s padalom letališče Bovec" srcset="/wp-content/uploads/2014/01/GOPR6578.jpg 2592w, /wp-content/uploads/2014/01/GOPR6578-300x225.jpg 300w, /wp-content/uploads/2014/01/GOPR6578-1024x768.jpg 1024w" sizes="(max-width: 2592px) 100vw, 2592px" /> </a>
+                            </div>
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">17</span> <span class="month">February</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/tandemski-skok-s-padalom-letalisce-bovec/" title="Tandemski skok s padalom letališče Bovec">Tandemski skok s padalom letališče Bovec</a></h4> Tandemski skoki s padalom na letališču Bovec so prav posebno doživetje. Podobno kot pri skokih s padalom na letališču Lesce je razgled na okoliške hribe prav neverjeten. Padalski skok v bovško dolino pa nekaj posebnega. Na letališču Bovec smo žal samo enkrat letno  (v avgustu),... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-504" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">0</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-501" class="post-501 post type-post status-publish format-standard hentry category-uncategorized tag-letalise-slovenj-gradec">
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">16</span> <span class="month">February</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/tandemski-skok-s-padalom-letalisce-slovenj-gradec/" title="Tandemski skok s padalom letališče Slovenj Gradec &#8211; trenutno zaprto za skoke s padalom">Tandemski skok s padalom letališče Slovenj Gradec &#8211; trenutno zaprto za skoke s padalom</a></h4> Tandemski skok s padalom na letališču Slovenj Gradec je posebno doživetje. Letališče Slovenj Gradec ima za skoke s padalom najboljše domače letalo Pilatus Porter. Pilatus Porter je turbo propelersko letalo za 10 padalcev, ki brez težav dosežen najvišjo višino iz katere izvajamo tandemske skoke 4000m.... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-501" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">0</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-491" class="post-491 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-letalisce-portoroz">
+                            <div class="post_image">
+                                <a href="/tandemski-skok-s-padalom-letalisce-portoroz/" title="Tandemski skok s padalom letališče Portorož">
+                                    <img width="1000" height="750" src="/wp-content/uploads/2014/02/GOPR0928-e1392406015535.jpg" class="attachment-full size-full wp-post-image" alt="skok s padalom" /> </a>
+                            </div>
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">14</span> <span class="month">February</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/tandemski-skok-s-padalom-letalisce-portoroz/" title="Tandemski skok s padalom letališče Portorož">Tandemski skok s padalom letališče Portorož</a></h4> Letališče Portorož je za tandemski skok s padalom eno bolj popularnih letališč. Pohvali se lahko s čudovitim razgledom na slovensko in hrvaško morje. V sezoni 2013 smo za tandemske skoke s padalom v Portorožu letalo Piper Seneca, letalo katero lahko na višino pelje 5 padalcev. Prikaži večji... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-491" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">20</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-485" class="post-485 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-letalisce-lesce">
+                            <div class="post_image">
+                                <a href="/tandemski-skok-s-padalom-letalisce-lesce/" title="Tandemski skok s padalom letališče Lesce &#8211; trenutno zaprto za skoke s padalom">
+                                    <img width="1200" height="900" src="/wp-content/uploads/2014/02/skok_s_padalom_lesce-e1392313956927.jpg" class="attachment-full size-full wp-post-image" alt="Tandemski skok s padalom Lesce" /> </a>
+                            </div>
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">13</span> <span class="month">February</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/tandemski-skok-s-padalom-letalisce-lesce/" title="Tandemski skok s padalom letališče Lesce &#8211; trenutno zaprto za skoke s padalom">Tandemski skok s padalom letališče Lesce &#8211; trenutno zaprto za skoke s padalom</a></h4> Letališče Lesce je naše domače letališče in eno izmed naših najljubših letališč za skoke s padalom. Ne samo zaradi centralne lege, ampak tudi zaradi panorame in postavitve samega letališča.  Po vzletu letalo v večini primerov zavije in nam ponuja vrhunski panoramski leti le nekaj 100... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-485" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">16</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-449" class="post-449 post type-post status-publish format-quote hentry category-uncategorized post_format-post-format-quote">
+                            <div class="post_text">
+                                <div class="post_text_holder">
+                                    <i class="qoute_mark icon-quote-right pull-left"></i>
+                                    <div class="post_description">
+                                        <span class="post_infos">
+<span
+class="date">04</span> <span class="month">January</span> | <a href="/category/uncategorized/" rel="category tag">Uncategorized</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                        </span>
+                                    </div>
+                                    <div class="post_title">
+                                        <p><a href="/the-moment-you-doubt-whether-you-can-fly-you-cease-for-ever-to-be-able-to-do-it-j-m-barrie-peter-pan/" title="J.M. Barrie, Peter Pan">“The moment you doubt whether you can fly, you cease for ever to be able to do it.”</a></p>
+                                        <span class="quote_author">&mdash; J.M. Barrie, Peter Pan</span></div>
+                                    <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-449" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">0</span></a>
+                                    </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </article>
+                        <article id="post-174" class="post-174 post type-post status-publish format-standard hentry category-faq">
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">25</span> <span class="month">December</span> | <a href="/category/faq/" rel="category tag">FAQ</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/kdo-lahko-skoci-s-tandemom/" title="Kdo lahko skoči s tandemom?">Kdo lahko skoči s tandemom?</a></h4> V Sloveniji ne veljajo omejitve glede starosti oseb, ki lahko skočijo s tandemom. Morate biti večji od 135 cm in lažji od 110kg in seveda primernega zdravja. V naši padalski tandemski šoli tudi ne dovolimo skakanja mlajšim od 10 let, saj smo mnenja, da pred... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-174" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">10</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-172" class="post-172 post type-post status-publish format-standard hentry category-faq">
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">25</span> <span class="month">December</span> | <a href="/category/faq/" rel="category tag">FAQ</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/zakaj-ljudje-skacejo-iz-letalnih-naprav-in-se-uvarjajo-s-padalstvom/" title="Zakaj ljudje skačejo iz letalnih naprav in se uvarjajo s padalstvom?">Zakaj ljudje skačejo iz letalnih naprav in se uvarjajo s padalstvom?</a></h4> Verjetno obstaja toliko razlogov, kot je ljudi, ki se ukvarjajo s padalstvom ali pa so že skočili v tandemu. Za nekatere je to življenska želja, za druge premagovanje ovir in novi izzivi in za nekatere možnost, da preizkusijo "nekaj ekstremnega". <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-172" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">3</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                        <article id="post-170" class="post-170 post type-post status-publish format-standard hentry category-faq">
+                            <div class="post_text">
+                                <div class="post_description">
+                                    <span class="post_infos">
+<span
+class="date">25</span> <span class="month">December</span> | <a href="/category/faq/" rel="category tag">FAQ</a> | <a class="post_author" href="/author/aljazm/">aljazm</a>
+                                    </span>
+                                </div>
+                                <h4><a
+href="/kaj-je-tandemski-padalski-skok/" title="Kaj je tandemski padalski skok?">Kaj je tandemski padalski skok?</a></h4> Ena lepših življenskih izkušenj, skok iz letala in prosti pad, jadranje s padalom, ...  je postala večini dosegljiva, predvsem zaradi tandemskih padalskih skokov. Varno pripeti na svojega inštruktorja, ki vas bo vodil čez celotno doživetje, se boste lahko sprostili, saj boste vedeli, da boste skočili z enim... <span class="post_social">
+<span
+class="blog_like">
+<a
+href="#" class="qode-like" id="qode-like-170" title="Like this"><i
+class="icon-heart icon-large"></i><span
+class="qode-like-count">36</span></a>
+                                </span>
+                                </span>
+                            </div>
+                        </article>
+                    </div>
+                    <div class='pagination'>
+                        <ul>
+                            <li class='prev'><a href='/blog/'><i
+class='icon-chevron-left'></i></a></li>
+                            <li class='active'><span>1</span></li>
+                            <li><a href='/blog/page/2/' class='inactive'>2</a></li>
+                            <li class='next'><a href="/blog/page/2/"><i
+class='icon-chevron-right'></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="content_bottom"></div>
+        </div>
+    </div>
+    <footer>
+    <div class="footer_top_holder">
+        <div class="footer_top">
+            <div class="container">
+                <div class="container_inner">
+                    <div class="four_columns clearfix">
+                        <div class="column1">
+                            <div class="column_inner">
+                                <div id="text-3" class="widget widget_text">
+                                    <div class="textwidget"><img src="/wp-content/uploads/2014/01/logo_tandemskiskok_white.png">
+                                        <br>
+                                        <span class='social_icon_holder'><a href='https://www.facebook.com/prostipadsi' target='_new'>
+                                        <span class='icon-stack icon-2x' style='background-color: #464646;'><i class='icon-facebook' style='color: #a9a9a9;'></i></span></a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column2">
+                            <div class="column_inner">
+                                <div id="recent-posts-3" class="widget widget_recent_entries">
+                                    <h4>Recent Posts</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="/sodelovali-smo-v-slovenskem-drzavnem-rekordu-v-velikih-formacijah/">Sodelovali smo v slovenskem državnem rekordu v velikih formacijah</a></li>
+                                        <li>
+                                            <a href="/ce-ni-na-posnetku-se-ni-zgodilo/">Če ni na posnetku, se ni zgodilo</a></li>
+                                        <li>
+                                            <a href="/tandemski-skok-s-padalom-letalisce-bovec/">Tandemski skok s padalom letališče Bovec</a></li>
+                                        <li>
+                                            <a href="/tandemski-skok-s-padalom-letalisce-slovenj-gradec/">Tandemski skok s padalom letališče Slovenj Gradec &#8211; trenutno zaprto za skoke s padalom</a></li>
+                                        <li>
+                                            <a href="/tandemski-skok-s-padalom-letalisce-portoroz/">Tandemski skok s padalom letališče Portorož</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column3">
+                            <div class="column_inner"></div>
+                        </div>
+                        <div class="column4">
+                            <div class="column_inner">
+                                <div id="tag_cloud-2" class="widget widget_tag_cloud">
+                                    <h4>Tags</h4>
+                                    <div class="tagcloud"><a href="/tag/darilni-bon/" class="tag-cloud-link tag-link-5 tag-link-position-1" style="font-size: 8pt;" aria-label="darilni bon (1 item)">darilni bon</a>
+                                        <a href="/tag/letalise-slovenj-gradec/" class="tag-cloud-link tag-link-12 tag-link-position-2" style="font-size: 8pt;" aria-label="Letališe Slovenj Gradec (1 item)">Letališe Slovenj Gradec</a>
+                                        <a href="/tag/letalisce-bovec/" class="tag-cloud-link tag-link-13 tag-link-position-3" style="font-size: 8pt;" aria-label="Letališče Bovec (1 item)">Letališče Bovec</a>
+                                        <a href="/tag/letalisce-lesce/" class="tag-cloud-link tag-link-10 tag-link-position-4" style="font-size: 8pt;" aria-label="letališče Lesce (1 item)">letališče Lesce</a>
+                                        <a href="/tag/letalisce-portoroz/" class="tag-cloud-link tag-link-11 tag-link-position-5" style="font-size: 8pt;" aria-label="Letališče Portorož (1 item)">Letališče Portorož</a>
+                                        <a href="/tag/padalska-sola/" class="tag-cloud-link tag-link-8 tag-link-position-6" style="font-size: 8pt;" aria-label="padalska šola (1 item)">padalska šola</a>
+                                        <a href="/tag/skok-s-padalom/" class="tag-cloud-link tag-link-3 tag-link-position-7" style="font-size: 22pt;" aria-label="skok s padalom (2 items)">skok s padalom</a>
+                                        <a href="/tag/snemanje-skoka/" class="tag-cloud-link tag-link-14 tag-link-position-8" style="font-size: 8pt;" aria-label="snemanje skoka (1 item)">snemanje skoka</a>
+                                        <a href="/tag/tandemski-skok/" class="tag-cloud-link tag-link-4 tag-link-position-9" style="font-size: 22pt;" aria-label="tandemski skok (2 items)">tandemski skok</a>
+                                        <a href="/tag/vetrovnik-aerodium-logatec/" class="tag-cloud-link tag-link-15 tag-link-position-10" style="font-size: 8pt;" aria-label="vetrovnik Aerodium Logatec (1 item)">vetrovnik Aerodium Logatec</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer_bottom_holder">
+        <div class="footer_bottom">
+            <div class="textwidget">© www.tandemskiskok.si</div>
+        </div>
+    </div>
+</footer>
+</div>
+</div>
+<div id="cookie-law-info-bar"><span>Spletna stran www.tandemskiskok.si uporablja piškotke. <a
+href="#" id="cookie_action_close_header"  class="small cli-plugin-button cli-plugin-main-button" >Ok</a> Piškotke lahko izklopite v vašem brskalniku. <a
+href="/ts?page_id=230" id="CONSTANT_OPEN_URL"  class="small cli-plugin-button cli-plugin-main-link" >Preberi več</a></span></div>
+<div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Piškotki</span></div>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        cli_show_cookiebar({
+            settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#707070","border":"#444","border_on":false,"button_1_button_colour":"#333333","button_1_button_hover":"#292929","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#cecece","button_2_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":true,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"50px","text":"#afafaf","show_once_yn":true,"show_once":"30000"}'
+        });
+    });
+</script>
+<script type='text/javascript'>
+    var wpcf7 = {
+        "apiSettings": {
+            "root": "http:\/\/www.tandemskiskok.si\/wp-json\/",
+            "namespace": "contact-form-7\/v1"
+        },
+        "recaptcha": {
+            "messages": {
+                "empty": "Please verify that you are not a robot."
+            }
+        },
+        "cached": "1"
+    };
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript'>
+    var qodeLike = {
+        "ajaxurl": "http:\/\/www.tandemskiskok.si\/wp-admin\/admin-ajax.php"
+    };
+</script>
+<script type='text/javascript' src='/wp-content/themes/river/js/qode-like.js?ver=1.0'></script>
+<script type='text/javascript' src='/wp-content/themes/river/js/plugins.js?ver=4.8'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?ver=4.8'></script>
+<script type='text/javascript' src='/wp-content/themes/river/js/default_dynamic.php?ver=4.8'></script>
+<script type='text/javascript' src='/wp-content/themes/river/js/default.min.js?ver=4.8'></script>
+<script type='text/javascript' src='/wp-content/themes/river/js/custom_js.php?ver=4.8'></script>
+<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js?ver=4.8'></script>
+<script type='text/javascript' src='/wp-content/themes/river/js/ajax.min.js?ver=4.8'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.8'></script>
+<script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.min.js?ver=4.12'></script>
+</body>
+
+</html>
